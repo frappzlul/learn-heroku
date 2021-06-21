@@ -1,0 +1,19 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "Main Stream",
+            "title": "KirbSMP - Main Stream",
+            "version": "20100223",
+            "location": "monsterpack.json",
+            "priority": 1
+        },
+        {
+            "name": "Lite Stream",
+            "title": "KirbSMP - Lite Stream",
+            "version": "20100223",
+            "location": "lightpack.json",
+            "priority": 1
+        }
+    ]
+}
